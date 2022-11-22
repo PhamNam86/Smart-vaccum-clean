@@ -1,0 +1,13 @@
+sudo ip addr add 192.168.1.254/24 dev enp0s8
+
+
+Git clone; 
+//git clone git://git.openwrt.org/openwrt.git
+
+Git list tag
+//git tag -l
+
+check out tag
+//git checkout tags/v23.xxxxx
+
+--> sau do chayh script feed install
